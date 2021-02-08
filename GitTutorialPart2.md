@@ -46,6 +46,8 @@ _Remove the remote named `<name>`. All remote-tracking branches and configuratio
 
 _Gives some information about the remote `<name>`._
 
+Detailed description of the command `git remote` can be found [here](https://git-scm.com/docs/git-remote).
+
 ### 11. git status
 
 This command lists all the files that have to be committed.
