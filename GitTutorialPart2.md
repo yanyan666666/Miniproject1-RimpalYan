@@ -45,3 +45,10 @@ _Gives some information about the remote `<name>`._
 This command lists all the files that have to be committed.
 
 ![Status Screenshot.](image/StatusImage.png)
+
+### 12. Master Branch / Main Branch
+
+_A branch in Git is simply a lightweight movable pointer to one of the commits. The default branch name in Git is master (now, "main"
+). As we start making commits, we’re given a master(main) branch that points to the last commit we made. Every time we commit, the master(main) branch pointer moves forward automatically._
+
+_The “master / main” branch in Git is not a special branch. It is exactly like any other branch._
