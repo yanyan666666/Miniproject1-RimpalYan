@@ -30,6 +30,8 @@ Detailed description of the command `git push` can be found [here](https://git-s
 
 Incorporates changes from a remote repository into the current branch. In its default mode, git pull is shorthand for `git fetch` followed by `git merge FETCH_HEAD`.
 
+Detailed description of the command `git pull` can be found [here](https://git-scm.com/docs/git-pull).
+
 ### 10. git remote add/ remove/ show
 
 - `git remote add`
