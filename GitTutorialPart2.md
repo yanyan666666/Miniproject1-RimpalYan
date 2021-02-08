@@ -12,7 +12,7 @@ _This command is used to switch from one branch to another._
 
 _This command is used to create and switch to the created branch._
 
-Detailed description of the command `git checkout`  can be found [here](https://git-scm.com/docs/git-checkout)
+Detailed description of the command `git checkout` can be found [here](https://git-scm.com/docs/git-checkout).
 
 ### 8. git push
 
@@ -21,6 +21,8 @@ Detailed description of the command `git checkout`  can be found [here](https://
 | `git push [variable name] main`     | This command sends the committed changes of master branch to your remote repository. |
 | `git push [variable name] [branch]` |           This command sends the branch commits to your remote repository.           |
 | `git push –all [variable name]`     |             This command pushes all branches to your remote repository.              |
+
+Detailed description of the command `git push` can be found [here](https://git-scm.com/docs/git-push).
 
 ### 9. git pull
 
