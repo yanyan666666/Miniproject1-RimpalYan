@@ -21,6 +21,17 @@ A branch is a parallel version of a repository. It is contained within the repos
 
 ###**2.Application**
 
-$git branch *branch A*
+$git branch *branch A*<br>
 You will create a new branch named"branch A".
+
+##**Commit**
+
+###**1.Definition**
+
+A commit, or "revision", is an individual change to a file (or set of files). When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when.
+
+###**2.Application**
+
+$git commit -m*'Task: added tutorial page'*<br>
+You will create a commit with message.
 
