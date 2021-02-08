@@ -45,4 +45,4 @@ Merging takes the changes from one branch (in the same repository or from a fork
 
 $git merge *main*<br>
 The current commit will merge to main.
-![Merge commit](/merge.png)
+![Merge commit](/image/merge.png)
