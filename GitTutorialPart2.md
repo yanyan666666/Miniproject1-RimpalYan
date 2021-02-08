@@ -40,3 +40,7 @@ _Remove the remote named `<name>`. All remote-tracking branches and configuratio
 - `git remote show <name>`
 
 _Gives some information about the remote `<name>`._
+ 
+### 11. git status
+
+This command lists all the files that have to be committed.
