@@ -44,4 +44,4 @@ _Gives some information about the remote `<name>`._
 
 This command lists all the files that have to be committed.
 
-![Status Screenshot.](image/Screen Shot 2021-02-08 at 4.57.50 PM.png )
+![Status Screenshot.](image/StatusImage.png)
