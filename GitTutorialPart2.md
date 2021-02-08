@@ -1,6 +1,6 @@
 # Git Tutorial Part 2
 
-### 7. Checkout
+### 7. git checkout
 
 Updates files in the working tree to match the version in the index or the specified tree. If no pathspec is given, git checkout will also update HEAD to set the specified branch as the current branch.
 
@@ -11,6 +11,8 @@ _This command is used to switch from one branch to another._
 `git checkout -b [<branch>]`
 
 _This command is used to create and switch to the created branch._
+
+Detailed description of the command `git checkout`  can be found [here](https://git-scm.com/docs/git-checkout)
 
 ### 8. git push
 
