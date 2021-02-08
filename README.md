@@ -7,5 +7,5 @@ This project is finished by Rimpal Suthar and Yan Yan as the course project of I
 ## **Content**
 
 There are two md files to introduce the definition of git terms.
-* <br>[Git Tutorial Part 1](/GitTutorialPart1.md)
-* <br>[Git Tutorial Part 2)(/GitTutorialPart2.md)
+* [Git Tutorial Part 1](/GitTutorialPart1.md)
+* [Git Tutorial Part 2](/GitTutorialPart2.md)
