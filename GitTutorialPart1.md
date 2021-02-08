@@ -23,6 +23,8 @@ A branch is a parallel version of a repository. It is contained within the repos
 
 $git branch *branch A*<br>
 You will create a new branch named"branch A".
+![Branch](/image/branch.png)
+
 
 ##**5.Commit**
 
@@ -34,7 +36,6 @@ A commit, or "revision", is an individual change to a file (or set of files). Wh
 
 $git commit -m*'Task: added tutorial page'*<br>
 You will create a commit with message.
-![Branch](/image/branch.png)
 
 ##**6.Merge**
 
