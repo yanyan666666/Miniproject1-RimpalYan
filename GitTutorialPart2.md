@@ -44,3 +44,5 @@ _Gives some information about the remote `<name>`._
 ### 11. git status
 
 This command lists all the files that have to be committed.
+
+![Status Screenshot.](/image/statusImg.png )
