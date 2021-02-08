@@ -54,6 +54,8 @@ This command lists all the files that have to be committed.
 
 ![Status Screenshot.](image/StatusImage.png)
 
+Detailed description of the command `git status` can be found [here](https://git-scm.com/docs/git-status).
+
 ### 12. Master Branch / Main Branch
 
 _A branch in Git is simply a lightweight movable pointer to one of the commits. The default branch name in Git is master (now, "main"
