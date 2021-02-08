@@ -34,6 +34,7 @@ A commit, or "revision", is an individual change to a file (or set of files). Wh
 
 $git commit -m*'Task: added tutorial page'*<br>
 You will create a commit with message.
+![Branch](/image/branch.png)
 
 ##**6.Merge**
 
