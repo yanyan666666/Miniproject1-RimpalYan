@@ -12,7 +12,6 @@ _This command is used to switch from one branch to another._
 
 _This command is used to create and switch to the created branch._
 
-
 ### 8. git push
 
 | Command                             |                                        Usage                                         |
@@ -40,9 +39,9 @@ _Remove the remote named `<name>`. All remote-tracking branches and configuratio
 - `git remote show <name>`
 
 _Gives some information about the remote `<name>`._
- 
+
 ### 11. git status
 
 This command lists all the files that have to be committed.
 
-![Status Screenshot.](/image/statusImg.png )
+![Status Screenshot.](image/Screen Shot 2021-02-08 at 4.57.50 PM.png )
