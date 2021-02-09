@@ -10,9 +10,12 @@ There are two md files to introduce the definition of git terms.
 
 - [Git Tutorial Part 1](/GitTutorialPart1.md) - _Prepared by Yan Yan_
 - [Git Tutorial Part 2](/GitTutorialPart2.md) - _Prepared by Rimpalbahen Suthar
-<<<<<<< HEAD
+
 ## **Version**
-version1.0          02/08/2021
+version1.0 
+
+02/08/2021
+
 ![Changelog](Changelog.md)
-=======
+
 
