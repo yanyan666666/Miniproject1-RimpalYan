@@ -9,3 +9,6 @@ This project is finished by Rimpal Suthar and Yan Yan as the course project of I
 There are two md files to introduce the definition of git terms.
 <br>[Git Tutorial Part 1](/GitTutorialPart1.md)
 
+## ** Version**
+version1.0   02/08/2021
+![Changelog](Changelog.md)
