@@ -1,4 +1,4 @@
-# Git Tutorial Part 2
+# Git Tutorial Part 2 
 
 ### 7. git checkout
 
@@ -58,7 +58,7 @@ Detailed description of the command `git remote` can be found [here](https://git
 
 This command lists all the files that have to be committed.
 
-![Status Screenshot.](image/StatusImage.png)
+![Status Screenshot.](image/statusImage1.png)
 
 Detailed description of the command `git status` can be found [here](https://git-scm.com/docs/git-status).
 
