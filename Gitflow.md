@@ -40,3 +40,11 @@ Hotfix branches are used to create emergency fixes:
 ![gitflow5](/image/GitFlow5.png)
 
 They are branched directly from a tagged release in the master branch, and when finished are merged back into both master and develop to make sure that the hotfix isn’t accidentally lost when the next regular release occurs.
+
+## How does using Git, Docker, Automated Testing, and continuous Integration help
+
+* Dockers are integrated with source control management tools such as GitHub and Integration tools like Jenkins. 
+* The code is then pushed by the developers into GitHub, test the code that automatically triggers a build using Jenkins creating an image. The image is added to the Docker registry to deal with inconsistencies between different environmental issues.
+* Continuous integration is a development practice in which developers integrate code into a shared repository several times a day, supporting integrating new functionality with the existing code. This integrated code also ensures no errors in the runtime environment, allowing us to check how it reacts with other changes.
+* Developers use Dockers in building their code and test their code in any environment to catch bugs early in the application development life cycle. Dockers are useful in streamlining the process. It helps to save time on builds and allows developers to run tests in parallel.
+* In this way the results are coherence in every organization's software development process since it helps build software quickly. Therefore, the productivity and competitiveness of an organization are improved.
