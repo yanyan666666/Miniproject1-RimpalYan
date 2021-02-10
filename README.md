@@ -8,7 +8,7 @@ This project is performed by Rimpalbahen Suthar and Yan Yan as the course projec
 
 There are three files to introduce the definition of git terms and Gitflow.
 
-- [GitFlow](/Gitflow.md) - _Prepared by Yan Yan_
+- [GitFlow](/Gitflow.md) - _Prepared by Yan Yan and Rimpalbahen Suthar_
 - [Git Tutorial Part 1](/GitTutorialPart1.md) - _Prepared by Yan Yan_
 - [Git Tutorial Part 2](/GitTutorialPart2.md) - _Prepared by Rimpalbahen Suthar_
 
